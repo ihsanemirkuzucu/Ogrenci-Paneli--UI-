@@ -1,0 +1,25 @@
+.p-1
+{
+  padding:20px 0;
+
+}
+mat-form-field
+{
+  width: 100%;
+}
+.image-container img
+{
+  width: 200px;
+}
+.image-container
+{
+  width: 200px;
+  height: 200px;
+  background-color: #f7f7f7;
+  border: 2px solid #ccc;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
